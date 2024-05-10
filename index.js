@@ -1,5 +1,5 @@
-import { _ } from './library-system/lib/fp-lodash.js'
-import { SystemConsistency } from './library-system/mutations/system-consistency.js'
+import { _ } from './lib/fp-lodash.js'
+import { SystemConsistency } from './mutations/system-consistency.js'
 
 let libraryData  = {
 	"catalog": {
