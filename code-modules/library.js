@@ -1,4 +1,4 @@
-import { Catalog } from './category.js'
+import { Catalog } from './catalog.js'
 import { UserManagement } from './user-management.js'
 import { _ } from '../lib/fp-lodash.js'
 
